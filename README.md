@@ -6,9 +6,9 @@ Sendo mostrado para nos o esboço do que deveriamos fazer em relação a tabela,
 e sendo mostrado também a distância aérea entre algumas capitais em comparação ao Macapá
 
 ### Tecnologis ultilizadas 
-HTML 5 
+_HTML 5_
 
-CSS
+_CSS_
 
 ### Material de referência
 
