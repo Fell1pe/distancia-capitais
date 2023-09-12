@@ -6,9 +6,9 @@ Sendo mostrado para nos o esboço do que deveriamos fazer em relação a tabela,
 e sendo mostrado também a distância aérea entre algumas capitais em comparação ao Macapá
 
 ### Tecnologis ultilizadas 
-*HTML 5*
+`*HTML 5*`
+`*CSS3*`
 
-*CSS*
 ### função
 
 achar a distância entre as capitais Brasileiras.
