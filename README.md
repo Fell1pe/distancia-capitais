@@ -1,6 +1,7 @@
 # Distâncias entre capitais brasileiras
 ~~Aplicação com tabela de distância entre capitais brasileiras~~
 
+### D
 Apartir dessa atividades colocamos em prática nossos conhecimentos em relação a criação de tabelas.
 Sendo mostrado para nos o esboço do que deveriamos fazer em relação a tabela, mostrando a distância entre essas capitais em Km
 e sendo mostrado também a distância aérea entre algumas capitais em comparação ao Macapá
@@ -9,6 +10,7 @@ e sendo mostrado também a distância aérea entre algumas capitais em comparaç
 `HTML5`  
 `CSS3`  
 `Github`  
+`VSCode`
 
 ### função
 
