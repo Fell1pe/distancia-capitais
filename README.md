@@ -7,7 +7,7 @@ e sendo mostrado também a distância aérea entre algumas capitais em comparaç
 
 ### Tecnologis ultilizadas 
 `HTML5`  
-`CSS3` 
+`CSS3`  
 `Github`  
 
 ### função
