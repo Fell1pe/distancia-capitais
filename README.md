@@ -2,7 +2,10 @@
 ~~Aplicação com tabela de distância entre capitais brasileiras~~
 ### indice
 * [Descrição](#Descrição)
-
+* [Tecnologias ultilizadas](#tecnologis-ultilizadas)
+* [função](#função)
+* [Material de referência](#material-de-referência)
+* [Autores](#autores)
 ### Descrição
 Apartir dessa atividades colocamos em prática nossos conhecimentos em relação a criação de tabelas.
 Sendo mostrado para nos o esboço do que deveriamos fazer em relação a tabela, mostrando a distância entre essas capitais em Km
@@ -14,7 +17,7 @@ e sendo mostrado também a distância aérea entre algumas capitais em comparaç
 `Github`  
 `VSCode`
 
-### função
+### Função
 
 achar a distância entre as capitais Brasileiras.
 
